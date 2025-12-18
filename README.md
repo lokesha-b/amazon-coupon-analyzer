@@ -178,8 +178,7 @@ By leveraging these insights, businesses can significantly improve their coupon 
 
 
 
-How to Use This Analysis
-
+How to run this repo ?
 
 Clone or download this project
 cd amazon-coupon-analyzer
@@ -192,7 +191,7 @@ jupyter notebook prompt.ipynb
 
 
 Key Files
-- `prompt.ipynb` - Complete analysis notebook (32 cells)
-- `data/coupons.csv` - Raw dataset (12,684 observations)
+- `prompt.ipynb` - Complete analysis notebook 
+- `data/coupons.csv` - Raw dataset 
 - `README.md` - This documentation file
 
